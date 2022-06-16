@@ -1,0 +1,10 @@
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\bin\Debug\Parcial1Ejercicio2.exe.config
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\bin\Debug\Parcial1Ejercicio2.exe
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\bin\Debug\Parcial1Ejercicio2.pdb
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial1Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial2Nuevo.Form1.resources
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial1Ejercicio2.Properties.Resources.resources
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial1Ejercicio2.csproj.GenerateResource.cache
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial1Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial1Ejercicio2.exe
+C:\Users\tiago\source\repos\Parcial2Nuevo\Parcial2Nuevo\obj\Debug\Parcial1Ejercicio2.pdb
